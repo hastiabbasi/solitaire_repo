@@ -34,6 +34,7 @@ public class Card implements Comparable<Card> {
         // initializes the class attributes
         this.symbol = symbol;
         this.value = value;
+        System.out.println("test");
     }
 
     /**
