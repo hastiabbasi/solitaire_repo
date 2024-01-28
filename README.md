@@ -10,5 +10,4 @@ https://github.com/hastiabbasi/solitaire_repo
 https://youtu.be/THd84IW5RQU
 
 ## Name/Version of the screencast software and IDE.
-Screencast software: Screenpal
-IDE: Eclipse
+Screencast software: Screenpal | IDE: Eclipse
