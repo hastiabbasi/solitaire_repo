@@ -3,7 +3,7 @@
 ## Full Name
 Hasti Abbasi Kenarasari
 
-## Link to GitHub Repo git push
+## Link to GitHub Repo 
 https://github.com/hastiabbasi/solitaire_repo
 
 ## Link to Video 
